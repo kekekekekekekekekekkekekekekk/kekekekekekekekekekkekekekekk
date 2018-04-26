@@ -1,0 +1,72 @@
+body {
+	min-height: 100%;
+	background: no-repeat center center fixed;
+ -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+ background: url(https://images.freecreatives.com/wp-content/uploads/2016/02/Old-Paper-Background-For-Free-.jpg);
+}
+.jumbotron /*#paragraph*/ {
+	margin-left: 6%;
+	margin-right: 6%;
+	margin-top: 6%;
+	border-radius: 30px;
+	background-color: rgba(255,255,255,0.40) !important;
+}
+.mainheader {
+	text-align: center;
+	text-decoration: underline;
+	color: black !important;
+}
+#top {
+	margin: 10%;
+}
+img {
+	/*margin-left: auto !important;
+	margin-right: auto !important;
+	border: 3px solid #75aaef !important;
+	width: 25% !important;*/
+
+	 display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 25% !important;
+    border: 3px solid #4a4c4f !important;
+}
+
+
+
+
+
+
+p {
+
+	font-size: 25px !important;
+	color: red;
+	margin: 2% !important;
+	color: black;
+}
+
+#bottonleft {
+	width: 50%;
+	height: 50px;
+	float: left;
+
+
+}
+#bottonright {
+
+	width: 50%;
+	height: 50px;
+	float: right;
+
+}
+.navbar-header .navbar-brand {
+	color: black;
+	font-size: 50px;
+	margin: 20%;
+}
+.i{
+	font-style: italic;
+}
